@@ -335,7 +335,7 @@ visibility: hidden; line-height: 0; height: 0;}*/
 
 /*-------------- slider ------------*/
 .intro-section { background: linear-gradient(rgba(35, 40, 40, 0.7), rgba(35, 40, 40, 0.7), rgba(35, 40, 40, 0.7)), url(../images/hero-img.jpg) no-repeat center; background-size: cover; }
-.intro-caption { color: #fff; padding-top: 150px; padding-bottom: 150px; font-size: 18px; }
+.intro-caption { color: #fff; padding-top: 300px; padding-bottom: 150px; font-size: 18px; }
 .intro-title { font-size: 52px; color: #fff; line-height: 58px; }
 
 /*-------------- cta ------------*/
